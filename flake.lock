@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657153077,
-        "narHash": "sha256-9Uke8qvFi/tswlohqynMroV0uMvena164mAvfWmt5yU=",
+        "lastModified": 1658018052,
+        "narHash": "sha256-s3y7eAutT6Gv9xTQsacagaKHTHE1jPMgBqi7ajIgu6w=",
         "owner": "nim-nix-pkgs",
         "repo": "mmgeoip",
-        "rev": "7d7b20f8270348c500311973004522b0f3eaed6a",
+        "rev": "c48908153693c981a354171594196a0807c72c2e",
         "type": "github"
       },
       "original": {
