@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334603,
-        "narHash": "sha256-jxxFZx6ft3A+DpH7Qfpx1WZ6IwaNfXLApzS6eN+3k8Y=",
+        "lastModified": 1668748878,
+        "narHash": "sha256-R6DCACJhBb4nMvDBw4M42YucINrQRccVen0j5AMRJW4=",
         "owner": "nim-nix-pkgs",
         "repo": "mmgeoip",
-        "rev": "dcc4438bb7467e3cdb7dd46cb997fbc058195014",
+        "rev": "c483e9843be495ef54e6897def94a842e5577d83",
         "type": "github"
       },
       "original": {
